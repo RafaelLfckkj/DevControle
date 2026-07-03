@@ -20,8 +20,6 @@ export function Header() {
             <FiLogOut size={26} color="#4b5563" />
           </button>
         </div>
-
-
       </div>
     </header>
   );
